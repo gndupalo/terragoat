@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "example" {
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "gndupalo"
     git_repo             = "terragoat"
     yor_trace            = "80b3b0ca-e0d8-4266-8a1f-12c71afd7e18"
   }

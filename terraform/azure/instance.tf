@@ -35,7 +35,7 @@ resource azurerm_linux_virtual_machine "linux_machine" {
     git_last_modified_at = "2020-06-17 15:48:15"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "gndupalo"
     git_repo             = "terragoat"
     yor_trace            = "736ef713-51b8-4178-ad69-406be81f6ef2"
   })
@@ -70,7 +70,7 @@ resource azurerm_windows_virtual_machine "windows_machine" {
     git_last_modified_at = "2020-06-17 15:48:15"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "gndupalo"
     git_repo             = "terragoat"
     yor_trace            = "41938587-bdfc-4234-b941-560f1ae7d6c0"
   })

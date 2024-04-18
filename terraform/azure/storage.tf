@@ -14,7 +14,7 @@ resource "azurerm_managed_disk" "example" {
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "gndupalo"
     git_repo             = "terragoat"
     yor_trace            = "d17da7b3-f1c5-4723-9f77-d1b9069459c7"
   }
@@ -53,7 +53,7 @@ resource "azurerm_storage_account" "example" {
     git_last_modified_at = "2021-05-02 10:06:10"
     git_last_modified_by = "nimrodkor@users.noreply.github.com"
     git_modifiers        = "Adin.Ermie/nimrodkor"
-    git_org              = "bridgecrewio"
+    git_org              = "gndupalo"
     git_repo             = "terragoat"
     yor_trace            = "23861ff4-c42d-495e-80ac-776c74035f43"
   }
