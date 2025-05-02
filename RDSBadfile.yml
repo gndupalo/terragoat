@@ -1,0 +1,15 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'State: RDS Postgres'
+Resources:
+  RDSDBInstance:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      AllocatedStorage: '100'
+      AutomaticBackupReplicationRegion: ap-northeast-1
+      BackupRetentionPeriod: 1
+      DBInstanceClass: db.t3.micro
+      Engine: postgres
+      Iops: 1000
+      MasterUserPassword: true
+      MasterUsername: masteruser
+      StorageType: IO1
